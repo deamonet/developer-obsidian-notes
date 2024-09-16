@@ -1,0 +1,3 @@
+If you get a SQLException: Connection refused or Connection timed out or a MySQL specific CommunicationsException: Communications link failure , then it means that the DB isn't reachable at all. This can have one or more of the following causes: IP address or hostname in JDBC URL is wrong.
+
+From <[https://www.google.com/search?client=firefox-b-d&q=com.mysql.cj.jdbc.exceptions.CommunicationsException%3A+Communications+link+failure](https://www.google.com/search?client=firefox-b-d&q=com.mysql.cj.jdbc.exceptions.CommunicationsException%3A+Communications+link+failure)>

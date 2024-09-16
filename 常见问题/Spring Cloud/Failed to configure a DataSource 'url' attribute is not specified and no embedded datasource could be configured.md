@@ -1,0 +1,1 @@
+虽然但是，我启动的明明是一个eureka服务，要什么数据库啊，不过好在在springboot注解中添加@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })就好了，系统就会忽略数据库。

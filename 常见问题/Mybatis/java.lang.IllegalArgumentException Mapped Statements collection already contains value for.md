@@ -1,0 +1,1 @@
+其实就是 mapper interface 中写了重名的方法，删去就好。也就是说 mapper interface 中不能使用方法重载

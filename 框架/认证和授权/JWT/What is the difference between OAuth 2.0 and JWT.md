@@ -1,0 +1,1 @@
+JWT is suitable for stateless applications, as it allows the application to authenticate users and authorize access to resources without maintaining a session state on the server. OAuth, on the other hand, maintains a session state on the server and uses a unique token to grant access to the user's resources.2023年1月19日

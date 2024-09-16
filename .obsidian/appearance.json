@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "textFontFamily": "Noto Sans CJK TC",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "nativeMenus": false,
+  "translucency": false
+}

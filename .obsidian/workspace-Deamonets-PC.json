@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c350f21d046418df",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c1ed48274c88c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926413f6a553c005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络/私有IP 公网IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b984fa93b272b260",
+    "type": "split",
+    "children": [
+      {
+        "id": "30436440eaf1f1a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48cafcecb827f01b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21f36f4206df9e81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5471286e8744d30",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aeb48d9188b6efaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7263e2fabed2a263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705d85c449a4ae6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "网络/私有IP 公网IP.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bb2ff95988f015c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "网络/私有IP 公网IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f8cc63bbbde86ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d70fba8db5c89e94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "网络/私有IP 公网IP.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "48cafcecb827f01b",
+  "lastOpenFiles": [
+    "题目/假设网络地址为192.168.35.0，子网掩码为28.md",
+    "设计/未命名.md",
+    "设计/未命名 1.md",
+    "框架/持久层/Mybatis/#{}和${}的区别是什么.md",
+    "网络/127.0.0.1和0.0.0.0的区别.md",
+    "设计模式/六大原则（或者七大原则）.md",
+    "微服务/gRPC在Spring Cloud中的应用.md",
+    "设计/gRPC的使用.md",
+    "网络/TCP 疑难杂症解析(2023年更新).md",
+    "设计/数据库设计/数据库手机号存储格式的思考.md"
+  ]
+}
