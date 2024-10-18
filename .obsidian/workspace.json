@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "框架/Mapstruct has-like methods.md",
+                "file": "框架/Mapstruct的隐藏大坑.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "框架/Mapstruct has-like methods.md",
+                "file": "框架/Mapstruct的隐藏大坑.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "框架/Mapstruct has-like methods.md",
+                "file": "框架/Mapstruct的隐藏大坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "框架/Mapstruct has-like methods.md"
+                "file": "框架/Mapstruct的隐藏大坑.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   "active": "816b59d51dd541d4",
   "lastOpenFiles": [
     "技巧/Untitled.md",
-    "框架/Mapstruct has-like methods.md",
+    "框架/Mapstruct的隐藏大坑.md",
     "数据库/Spring/Spring Data JPA/Introduction to Spring Data JPA.md",
     "Python/Flatten a list from List Comprehension.md",
     "Python/pandas.DataFrame.to_csv.md",
