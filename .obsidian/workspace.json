@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "623235a01f7abc76",
+        "id": "317a990fb34c5304",
         "type": "tabs",
         "children": [
           {
-            "id": "8efa07111b0cf910",
+            "id": "d3feeac50b5eaa05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见问题/what is path to.md",
+                "file": "Python/if else in a list comprehension.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is path to"
+              "title": "if else in a list comprehension"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lINUX DU",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见问题/what is path to.md"
+                "file": "Python/if else in a list comprehension.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of what is path to"
+              "title": "Outline of if else in a list comprehension"
             }
           }
         ],
@@ -172,8 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8efa07111b0cf910",
+  "active": "d3feeac50b5eaa05",
   "lastOpenFiles": [
+    "Python/Flatten a list from List Comprehension.md",
+    "Python/if else in a list comprehension.md",
+    "Python/Untitled.md",
     "常见问题/what is path to.md",
     "框架/Apache POI/java poi 调整Excel 列宽支持自适应中文字符宽度.md",
     "框架/Apache POI",
@@ -208,11 +211,8 @@
     "框架/Mapstruct的隐藏大坑.md",
     "技巧/Untitled.md",
     "数据库/Spring/Spring Data JPA/Introduction to Spring Data JPA.md",
-    "Python/Flatten a list from List Comprehension.md",
     "Python/pandas.DataFrame.to_csv.md",
     "2024-10-14.md",
-    "技巧/Spring/FeignResponseDecoder.md",
-    "常见问题/lombok/同名变量，但大小写不同.md",
     "Python",
     "技巧/Spring",
     "技巧/hutool",
