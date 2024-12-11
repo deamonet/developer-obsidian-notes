@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见问题/Spring Boot/为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题.md",
+                "file": "技巧/GraphQL/从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题"
+              "title": "从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见问题/Spring Boot/为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题.md"
+                "file": "技巧/GraphQL/从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题"
+              "title": "Outline of 从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean"
             }
           }
         ],
@@ -174,8 +174,10 @@
   },
   "active": "24c11c608e3fd10e",
   "lastOpenFiles": [
-    "Computer Science/PKCS：密码设备与应用程序的密码学接口  加密.md",
     "常见问题/Spring Boot/为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题.md",
+    "技巧/GraphQL/从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean.md",
+    "技巧/GraphQL",
+    "Computer Science/PKCS：密码设备与应用程序的密码学接口  加密.md",
     "Computer Science",
     "数据库/SQL/INSERT with SELECT.md",
     "常见问题/Spring Boot/When Spring Boot starts up, it throws the method names must be tokens exception.md",
@@ -212,14 +214,12 @@
     "Python/python M bad interpreter.md",
     "设计/面向对象/Go、Rust、Nim等新兴语言，为什么都抛弃了constructor.md",
     "常见问题/lombok/lombok的slf4j注解在接口上用不了.md",
-    "Redis/Redis Scan 原理解析与踩坑.md",
     "Redis",
     "Python",
     "技巧/Spring",
     "技巧/hutool",
     "Linux/Arch",
     "网络/加密/PGP",
-    "网络/加密",
     "未命名.canvas"
   ]
 }
