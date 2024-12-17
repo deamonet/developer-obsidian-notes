@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d101798ccc4bef",
+        "id": "5e27b19269f4c9da",
         "type": "tabs",
         "children": [
           {
-            "id": "24c11c608e3fd10e",
+            "id": "2c0ea84ea1bd14a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技巧/GraphQL/从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技巧/GraphQL/从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean"
+              "title": "Outline"
             }
           }
         ],
@@ -172,10 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24c11c608e3fd10e",
+  "active": "2c0ea84ea1bd14a8",
   "lastOpenFiles": [
-    "常见问题/Spring Boot/为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题.md",
+    "技巧/Jackson序列化.md",
+    "技巧/Jackson反序列化.md",
+    "数据库/优化/实战：MySQL Sending data导致查询很慢的问题详细分析.md",
+    "数据库/MySQL/What does it mean when MySQL is in the state Sending data.md",
+    "Spring/关于后端微服务通信中RestTemplate的三种创建方式（RestTemplateBuilder，RestTemplateCustomizer）.md",
     "技巧/GraphQL/从JAVA BEAN 生成GRAPHSQL 查询语句 generateGraphQLQueryStringFromJavaBean.md",
+    "Spring",
+    "常见问题/Spring Boot/为什么直接通过 @Autowired 注入的 HttpServletRequest 没有线程安全的问题.md",
     "技巧/GraphQL",
     "Computer Science/PKCS：密码设备与应用程序的密码学接口  加密.md",
     "Computer Science",
@@ -209,17 +209,11 @@
     "Linux/Linux du命令查看文件夹大小并排序.md",
     "Java/Java SE/流/“Stream has already been operated upon or closed” Exception in Java.md",
     "技巧/Spring/spring-cloud-starter-openfeign 转发multipart.md",
-    "技巧/Spring/FeginRequestInterceptor.md",
-    "Python/Python跨文件全局变量的使用.md",
-    "Python/python M bad interpreter.md",
-    "设计/面向对象/Go、Rust、Nim等新兴语言，为什么都抛弃了constructor.md",
-    "常见问题/lombok/lombok的slf4j注解在接口上用不了.md",
     "Redis",
     "Python",
     "技巧/Spring",
     "技巧/hutool",
     "Linux/Arch",
-    "网络/加密/PGP",
     "未命名.canvas"
   ]
 }
