@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e27b19269f4c9da",
+        "id": "b3e137a491b4d545",
         "type": "tabs",
         "children": [
           {
-            "id": "2c0ea84ea1bd14a8",
+            "id": "8c1306c57881078e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "并发/CompletableFuture原理与实践-外卖商家端API的异步化.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CompletableFuture原理与实践-外卖商家端API的异步化"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "并发/CompletableFuture原理与实践-外卖商家端API的异步化.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CompletableFuture原理与实践-外卖商家端API的异步化"
             }
           }
         ],
@@ -166,8 +172,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c0ea84ea1bd14a8",
+  "active": "8c1306c57881078e",
   "lastOpenFiles": [
+    "media/图16_完整流程.gif",
+    "media/图13_执行流程简要说明.gif",
+    "media/图8_二元依赖.png",
+    "media/图6_零依赖.png",
+    "media/图11_CF类图.png",
+    "media/图18_多元依赖结构树.png",
+    "media/图17_二元依赖数据结构.png",
+    "media/图14_入栈校验.png",
+    "media/图15_多次触发.png",
+    "media/图12_thenApply简图.png",
+    "media/图10_CF基本结构.png",
+    "并发/CompletableFuture原理与实践-外卖商家端API的异步化.md",
+    "并发",
+    "Java/Untitled.md",
     "技巧/Jackson序列化.md",
     "技巧/Jackson反序列化.md",
     "数据库/优化/实战：MySQL Sending data导致查询很慢的问题详细分析.md",
@@ -191,29 +211,15 @@
     "Java/java空接口有什么用.md",
     "Java/java Timezone setDefault effects.md",
     "Java/Java NIO浅析.md",
-    "media/emma_1.jpg",
-    "media/emma_1.png",
     "数据库/结构/索引与页.md",
-    "media/xxxx.jpg",
-    "media/xmgpnv1szl.png",
-    "media/v2-d21393745de9c470934575ef76cefd29_1440w.jpg",
-    "media/v2-1cdda3420065a89dbb5758788f0d60b7_1440w.jpg",
-    "media/Refactor_variable_name-6.png",
-    "media/Refactor_variable_name-7.png",
-    "media/Rename_class_with_preview.png",
-    "media/Rename_the_Bug_class_to_ABug.png",
     "Docker/Dockerfile.md",
     "Docker/CMD 容器启动命令.md",
     "Docker/ENTRYPOINT 入口点.md",
     "Docker",
-    "Linux/Linux du命令查看文件夹大小并排序.md",
-    "Java/Java SE/流/“Stream has already been operated upon or closed” Exception in Java.md",
-    "技巧/Spring/spring-cloud-starter-openfeign 转发multipart.md",
     "Redis",
     "Python",
     "技巧/Spring",
     "技巧/hutool",
-    "Linux/Arch",
     "未命名.canvas"
   ]
 }
