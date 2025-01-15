@@ -1,5 +1,8 @@
+---
+tags:
+  - du
+---
 ```shell
-
 du -hs * | sort -hr | head
 
 70M     chapter04
@@ -29,3 +32,4 @@ du --max-depth 1 -h | sort -hr
 du /tmp -hs * | sort -hr
 
 ```
+#du 
