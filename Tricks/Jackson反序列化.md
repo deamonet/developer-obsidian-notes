@@ -16,7 +16,9 @@ import java.time.format.DateTimeFormatter;
   
 /**  
  * @author yedongdong  
- * date 2024/01/05 10:21 * description */public class HourMinuteDeserializer extends JsonDeserializer<LocalTime> {  
+ * date 2024/01/05 10:21 * description 
+ */
+public class HourMinuteDeserializer extends JsonDeserializer<LocalTime> {  
   
     @Override  
     public LocalTime deserialize(JsonParser jsonParser, DeserializationContext deserializationContext) throws IOException, JsonProcessingException {  
